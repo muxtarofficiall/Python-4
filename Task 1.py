@@ -1,3 +1,6 @@
+#1.) verilmiş listdəki ədədlərin hansılarının hər hansı bir ədədin kvadratı olduğunu define funksiyasında yazıb və listin içərisində ekrana çıxarın. 
+#mylist=[-4,-16,0,1,4,5,9,16,25,36,49,64,81,100]
+
 import math
 
 
